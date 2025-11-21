@@ -1,4 +1,0 @@
-!include suite/ndb_binlog/t/ndb_binlog_split_rows.cnf
-
-[cluster_config.1]
-ndbd=,,,,,

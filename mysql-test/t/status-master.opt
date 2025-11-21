@@ -1,3 +1,0 @@
---table-open-cache-instances=1
---loose-mysqlx=off
---gtid-mode=off --enforce-gtid-consistency=off

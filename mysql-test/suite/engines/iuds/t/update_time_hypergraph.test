@@ -1,3 +1,0 @@
---source include/have_hypergraph.inc
---source suite/engines/iuds/include/update_time.inc
---source include/disable_hypergraph.inc

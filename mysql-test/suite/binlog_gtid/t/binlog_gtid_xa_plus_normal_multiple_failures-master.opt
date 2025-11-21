@@ -1,3 +1,0 @@
-# Number of internal transactions committed or rolled back during InnoDB
-# recovery varies when log writer threads are disabled
---innodb_log_writer_threads=ON

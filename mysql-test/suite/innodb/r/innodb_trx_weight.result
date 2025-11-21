@@ -1,3 +1,0 @@
-include/rpl/set_gtid_mode_off.inc
-SET default_storage_engine=InnoDB;
-include/rpl/set_gtid_mode_on.inc

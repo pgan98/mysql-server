@@ -1,4 +1,0 @@
-# With disabled log writer threads the testcase fails sporadically due to
-# increased file IO
---innodb_log_writer_threads=ON
-

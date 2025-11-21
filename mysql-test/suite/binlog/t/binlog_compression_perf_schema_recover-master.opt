@@ -1,2 +1,0 @@
---binlog-format=ROW --binlog-transaction-compression=ON
---gtid-mode=off --enforce-gtid-consistency=off
